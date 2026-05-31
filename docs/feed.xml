@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>The Sports Page</title>
+  <link>https://thesportspage.app</link>
+  <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
+  <language>en-us</language>
+  <lastBuildDate>Tue, 26 May 2026 09:15:34 +0000</lastBuildDate>
+  <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
+  <image>
+    <url>https://thesportspage.app/favicon.ico</url>
+    <title>The Sports Page</title>
+    <link>https://thesportspage.app</link>
+  </image>
+  <item>
+    <title>Tuesday, May 26, 2026: KNICKS ROLL INTO NBA FINALS WITH 130-93 DEMOLITION OF CAVALIERS</title>
+    <link>https://thesportspage.app/editions/2026-05-26.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-05-26.html</guid>
+    <pubDate>Tue, 26 May 2026 09:00:00 +0000</pubDate>
+    <description>New York completes sweep, reaches Finals for first time since 1999</description>
+    <category>Sports</category>
+  </item>
+  <item>
+    <title>Monday, May 25, 2026: THUNDER SILENCED: SPURS EVEN SERIES WITH DOMINANT GAME 4 ROUT</title>
+    <link>https://thesportspage.app/editions/2026-05-25.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-05-25.html</guid>
+    <pubDate>Mon, 25 May 2026 09:00:00 +0000</pubDate>
+    <description>San Antonio holds Oklahoma City to 82 points as series heads to Game 5 tied 2-2</description>
+    <category>Sports</category>
+  </item>
+  <item>
+    <title>Sunday, May 24, 2026: </title>
+    <link>https://thesportspage.app/editions/2026-05-24.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-05-24.html</guid>
+    <pubDate>Sun, 24 May 2026 09:00:00 +0000</pubDate>
+    <description></description>
+    <category>Sports</category>
+  </item>
+  <item>
+    <title>Saturday, May 23, 2026: MANZARDO WALK-OFF BLAST SILENCES PHILLY IN THE NINTH</title>
+    <link>https://thesportspage.app/editions/2026-05-23.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-05-23.html</guid>
+    <pubDate>Sat, 23 May 2026 09:00:00 +0000</pubDate>
+    <description>Cleveland first baseman's fifth homer delivers Guardians a 1-0 stunner at Philadelphia</description>
+    <category>Sports</category>
+  </item>
+  <item>
+    <title>Friday, May 22, 2026: HART ERUPTS FOR 26, KNICKS ONE FOOT IN NBA FINALS</title>
+    <link>https://thesportspage.app/editions/2026-05-22.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-05-22.html</guid>
+    <pubDate>Fri, 22 May 2026 09:00:00 +0000</pubDate>
+    <description>Brunson adds 19 points and 14 assists as New York goes up 2-0 on Cleveland</description>
+    <category>Sports</category>
+  </item>
+  <item>
+    <title>Thursday, May 21, 2026: GILGEOUS-ALEXANDER SILENCES SPURS, THUNDER ROAR BACK TO TIE SERIES</title>
+    <link>https://thesportspage.app/editions/2026-05-21.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-05-21.html</guid>
+    <pubDate>Thu, 21 May 2026 09:00:00 +0000</pubDate>
+    <description>SGA's 30-point masterclass forces a pivotal Game 3 in San Antonio</description>
+    <category>Sports</category>
+  </item>
+  <item>
+    <title>Wednesday, May 20, 2026: BRUNSON DRAGS KNICKS PAST CAVS IN OVERTIME THRILLER</title>
+    <link>https://thesportspage.app/editions/2026-05-20.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-05-20.html</guid>
+    <pubDate>Wed, 20 May 2026 09:00:00 +0000</pubDate>
+    <description>New York outlasts Cleveland 115-104 in OT to seize Game 1 edge</description>
+    <category>Sports</category>
+  </item>
+  <item>
+    <title>Tuesday, May 19, 2026: WEMBANYAMA HANDS MVP GILGEOUS-ALEXANDER A LESSON IN OKLAHOMA CITY</title>
+    <link>https://thesportspage.app/editions/2026-05-19.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-05-19.html</guid>
+    <pubDate>Tue, 19 May 2026 09:00:00 +0000</pubDate>
+    <description>Spurs stun top-seeded Thunder 122-115, seize Game 1 edge in Western semis</description>
+    <category>Sports</category>
+  </item>
+  <item>
+    <title>Monday, May 18, 2026: WINNER TAKE ALL: SABRES AND CANADIENS MEET IN GAME 7 FOR A SHOT AT THE HURRICANES</title>
+    <link>https://thesportspage.app/editions/2026-05-18.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-05-18.html</guid>
+    <pubDate>Mon, 18 May 2026 09:00:00 +0000</pubDate>
+    <description>Buffalo and Montreal settle a bitter Atlantic Division rivalry with a trip to the Eastern Conference finals on the line.</description>
+    <category>Sports</category>
+  </item>
+  <item>
+    <title>Sunday, May 17, 2026: LUUKKONEN SLAMS THE DOOR AS BUFFALO ERUPTS FOR EIGHT TO STAY ALIVE</title>
+    <link>https://thesportspage.app/editions/2026-05-17.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-05-17.html</guid>
+    <pubDate>Sun, 17 May 2026 09:00:00 +0000</pubDate>
+    <description>Sabres rally from early goalie crisis to blast Canadiens 8-3, forcing a winner-take-all Game 7</description>
+    <category>Sports</category>
+  </item>
+  <item>
+    <title>Saturday, May 16, 2026: SPURS TORCH WOLVES BY 30, ADVANCE TO CONFERENCE FINALS WITH DOMINANT 139-109 DEMOLITION</title>
+    <link>https://thesportspage.app/editions/2026-05-16.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-05-16.html</guid>
+    <pubDate>Sat, 16 May 2026 09:00:00 +0000</pubDate>
+    <description>San Antonio's offensive explosion sends Minnesota packing as Spurs roll into the final four.</description>
+    <category>Sports</category>
+  </item>
+</channel>
+</rss>
