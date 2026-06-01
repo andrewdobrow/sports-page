@@ -1,0 +1,36 @@
+name: Daily Sports Edition
+
+on:
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4.2.2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install anthropic requests nba-api
+
+      - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python pipeline.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name  "Sports Page Bot"
+          git config user.email "bot@thesportspage.example"
+          git add docs/data.json docs/archive.html docs/editions/ docs/feed.xml
+          git diff --staged --quiet || git commit -m "chore: publish $(date -u '+%Y-%m-%d') edition"
+          git pull --rebase origin main
+          git push
