@@ -1,0 +1,143 @@
+{
+  "editions": [
+    {
+      "date": "2026-05-26",
+      "label": "Tuesday, May 26, 2026",
+      "headline": "KNICKS ROLL INTO NBA FINALS WITH 130-93 DEMOLITION OF CAVALIERS",
+      "deck": "New York completes sweep, reaches Finals for first time since 1999",
+      "kicker": "NBA PLAYOFFS",
+      "sports": [
+        "mlb",
+        "nba",
+        "nhl"
+      ],
+      "url": "editions/2026-05-26.html"
+    },
+    {
+      "date": "2026-05-25",
+      "label": "Monday, May 25, 2026",
+      "headline": "THUNDER SILENCED: SPURS EVEN SERIES WITH DOMINANT GAME 4 ROUT",
+      "deck": "San Antonio holds Oklahoma City to 82 points as series heads to Game 5 tied 2-2",
+      "kicker": "NBA PLAYOFFS",
+      "sports": [
+        "mlb",
+        "nba",
+        "nhl"
+      ],
+      "url": "editions/2026-05-25.html"
+    },
+    {
+      "date": "2026-05-24",
+      "label": "Sunday, May 24, 2026",
+      "headline": "",
+      "deck": "",
+      "kicker": "",
+      "sports": [
+        "mlb",
+        "nba",
+        "nhl"
+      ],
+      "url": "editions/2026-05-24.html"
+    },
+    {
+      "date": "2026-05-23",
+      "label": "Saturday, May 23, 2026",
+      "headline": "MANZARDO WALK-OFF BLAST SILENCES PHILLY IN THE NINTH",
+      "deck": "Cleveland first baseman's fifth homer delivers Guardians a 1-0 stunner at Philadelphia",
+      "kicker": "MLB",
+      "sports": [
+        "mlb",
+        "nba",
+        "nhl"
+      ],
+      "url": "editions/2026-05-23.html"
+    },
+    {
+      "date": "2026-05-22",
+      "label": "Friday, May 22, 2026",
+      "headline": "HART ERUPTS FOR 26, KNICKS ONE FOOT IN NBA FINALS",
+      "deck": "Brunson adds 19 points and 14 assists as New York goes up 2-0 on Cleveland",
+      "kicker": "NBA PLAYOFFS",
+      "sports": [
+        "mlb",
+        "nba",
+        "nhl"
+      ],
+      "url": "editions/2026-05-22.html"
+    },
+    {
+      "date": "2026-05-21",
+      "label": "Thursday, May 21, 2026",
+      "headline": "GILGEOUS-ALEXANDER SILENCES SPURS, THUNDER ROAR BACK TO TIE SERIES",
+      "deck": "SGA's 30-point masterclass forces a pivotal Game 3 in San Antonio",
+      "kicker": "NBA PLAYOFFS",
+      "sports": [
+        "mlb",
+        "nba",
+        "nhl"
+      ],
+      "url": "editions/2026-05-21.html"
+    },
+    {
+      "date": "2026-05-20",
+      "label": "Wednesday, May 20, 2026",
+      "headline": "BRUNSON DRAGS KNICKS PAST CAVS IN OVERTIME THRILLER",
+      "deck": "New York outlasts Cleveland 115-104 in OT to seize Game 1 edge",
+      "kicker": "NBA PLAYOFFS",
+      "sports": [
+        "mlb",
+        "nba"
+      ],
+      "url": "editions/2026-05-20.html"
+    },
+    {
+      "date": "2026-05-19",
+      "label": "Tuesday, May 19, 2026",
+      "headline": "WEMBANYAMA HANDS MVP GILGEOUS-ALEXANDER A LESSON IN OKLAHOMA CITY",
+      "deck": "Spurs stun top-seeded Thunder 122-115, seize Game 1 edge in Western semis",
+      "kicker": "NBA PLAYOFFS",
+      "sports": [
+        "mlb",
+        "nba",
+        "nhl"
+      ],
+      "url": "editions/2026-05-19.html"
+    },
+    {
+      "date": "2026-05-18",
+      "label": "Monday, May 18, 2026",
+      "headline": "WINNER TAKE ALL: SABRES AND CANADIENS MEET IN GAME 7 FOR A SHOT AT THE HURRICANES",
+      "deck": "Buffalo and Montreal settle a bitter Atlantic Division rivalry with a trip to the Eastern Conference finals on the line.",
+      "kicker": "NHL PLAYOFFS",
+      "sports": [
+        "mlb",
+        "nba"
+      ],
+      "url": "editions/2026-05-18.html"
+    },
+    {
+      "date": "2026-05-17",
+      "label": "Sunday, May 17, 2026",
+      "headline": "LUUKKONEN SLAMS THE DOOR AS BUFFALO ERUPTS FOR EIGHT TO STAY ALIVE",
+      "deck": "Sabres rally from early goalie crisis to blast Canadiens 8-3, forcing a winner-take-all Game 7",
+      "kicker": "NHL PLAYOFFS",
+      "sports": [
+        "mlb",
+        "nhl"
+      ],
+      "url": "editions/2026-05-17.html"
+    },
+    {
+      "date": "2026-05-16",
+      "label": "Saturday, May 16, 2026",
+      "headline": "SPURS TORCH WOLVES BY 30, ADVANCE TO CONFERENCE FINALS WITH DOMINANT 139-109 DEMOLITION",
+      "deck": "San Antonio's offensive explosion sends Minnesota packing as Spurs roll into the final four.",
+      "kicker": "NBA PLAYOFFS",
+      "sports": [
+        "mlb",
+        "nba"
+      ],
+      "url": "editions/2026-05-16.html"
+    }
+  ]
+}
