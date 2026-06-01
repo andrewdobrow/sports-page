@@ -1,6 +1,18 @@
 {
   "editions": [
     {
+      "date": "2026-05-31",
+      "label": "Monday, June 1, 2026",
+      "headline": "",
+      "deck": "",
+      "kicker": "",
+      "sports": [
+        "mlb",
+        "nba"
+      ],
+      "url": "editions/2026-05-31.html"
+    },
+    {
       "date": "2026-05-26",
       "label": "Tuesday, May 26, 2026",
       "headline": "KNICKS ROLL INTO NBA FINALS WITH 130-93 DEMOLITION OF CAVALIERS",
