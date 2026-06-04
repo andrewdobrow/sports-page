@@ -1881,82 +1881,7 @@ const nfl = {
     {time:"June 1",away:"Cutdown",home:"Roster Moves",note:"Post-June 1 designations take effect; cap savings accelerate"},
     {time:"July 24",away:"Training",home:"Camps Open",note:"Veteran reporting date for all 32 teams"},
   ],
-  boxScores:[
-    {title:"Super Bowl LIX: Eagles 38, 49ers 10",
-     linescore:{away:{name:"Philadelphia",scores:[10,14,7,7],r:38},home:{name:"San Francisco",scores:[3,0,7,0],r:10}},
-     batting:[],
-     nflStats:[
-       {label:"Passing",cols:["Player","Team","Att","Cmp","Yds","TD","Int","Rating"],rows:[
-         ["Hurts","PHI","31","22","221","2","0","112.3"],
-         ["Purdy","SF","27","16","142","0","2","48.1"],
-       ]},
-       {label:"Rushing",cols:["Player","Team","Car","Yds","Avg","TD"],rows:[
-         ["Hurts","PHI","12","72","6.0","1"],["Henry","PHI","22","88","4.0","1"],
-         ["McCaffrey","SF","8","31","3.9","0"],["Mitchell","SF","6","18","3.0","0"],
-       ]},
-       {label:"Receiving",cols:["Player","Team","Rec","Tgt","Yds","Avg","TD"],rows:[
-         ["AJBrown","PHI","6","8","82","13.7","1"],["DeVonta Smith","PHI","5","7","62","12.4","1"],
-         ["Goedert","PHI","4","5","44","11.0","0"],["Aiyuk","SF","6","9","58","9.7","0"],
-         ["Kittle","SF","4","6","44","11.0","0"],["McCaffrey","SF","4","5","38","9.5","0"],
-       ]},
-     ],
-     notes:"MVP: Jalen Hurts. Eagles win first championship since Super Bowl LII. Halftime: PHI 24, SF 3."},
-    {title:"AFC Championship: Ravens 27, Chiefs 24",
-     linescore:{away:{name:"Baltimore",scores:[3,10,7,7],r:27},home:{name:"Kansas City",scores:[7,10,0,7],r:24}},
-     batting:[],
-     nflStats:[
-       {label:"Passing",cols:["Player","Team","Att","Cmp","Yds","TD","Int","Rating"],rows:[
-         ["Jackson","BAL","38","28","312","2","1","94.1"],
-         ["Mahomes","KC","47","29","281","1","2","69.8"],
-       ]},
-       {label:"Rushing",cols:["Player","Team","Car","Yds","Avg","TD"],rows:[
-         ["Henry","BAL","21","98","4.7","1"],["Jackson","BAL","7","44","6.3","0"],
-         ["Pacheco","KC","18","74","4.1","1"],
-       ]},
-       {label:"Receiving",cols:["Player","Team","Rec","Tgt","Yds","Avg","TD"],rows:[
-         ["Andrews","BAL","8","11","92","11.5","1"],["Agholor","BAL","5","7","68","13.6","0"],
-         ["Kelce","KC","11","16","108","9.8","1"],["Rice","KC","4","7","44","11.0","0"],
-       ]},
-     ],
-     notes:"Tucker 47-yd FG with 0:08 remaining. Henry 98 yds, 1 TD. Jackson 28/38, 2 TD."},
-    {title:"NFC Championship: Eagles 21, Lions 17",
-     linescore:{away:{name:"Philadelphia",scores:[7,7,0,7],r:21},home:{name:"Detroit",scores:[7,3,7,0],r:17}},
-     batting:[],
-     nflStats:[
-       {label:"Passing",cols:["Player","Team","Att","Cmp","Yds","TD","Int","Rating"],rows:[
-         ["Hurts","PHI","34","21","198","1","0","88.1"],
-         ["Goff","DET","42","29","307","2","1","84.3"],
-       ]},
-       {label:"Rushing",cols:["Player","Team","Car","Yds","Avg","TD"],rows:[
-         ["Hurts","PHI","14","88","6.3","1"],["Henry","PHI","17","79","4.6","0"],
-         ["Montgomery","DET","12","44","3.7","0"],["Gibbs","DET","8","38","4.8","0"],
-       ]},
-       {label:"Receiving",cols:["Player","Team","Rec","Tgt","Yds","Avg","TD"],rows:[
-         ["Smith","PHI","9","12","102","11.3","1"],["Brown","PHI","5","8","62","12.4","0"],
-         ["LaPorta","DET","5","7","67","13.4","1"],["Gibbs","DET","6","7","58","9.7","0"],
-         ["Nacua","DET","5","8","55","11.0","1"],
-       ]},
-     ],
-     notes:"Hurts 18-yd scramble for go-ahead TD with 2:12 left. Goff 29/42, 307 yds, 2 TD."},
-    {title:"AFC Divisional: Ravens 34, Bills 31",
-     linescore:{away:{name:"Baltimore",scores:[7,14,3,10],r:34},home:{name:"Buffalo",scores:[7,7,10,7],r:31}},
-     batting:[],
-     nflStats:[
-       {label:"Passing",cols:["Player","Team","Att","Cmp","Yds","TD","Int","Rating"],rows:[
-         ["Jackson","BAL","44","31","275","3","1","91.4"],
-         ["Allen","BUF","54","38","349","2","1","82.3"],
-       ]},
-       {label:"Rushing",cols:["Player","Team","Car","Yds","Avg","TD"],rows:[
-         ["Henry","BAL","24","131","5.5","2"],["Jackson","BAL","8","52","6.5","0"],
-         ["Cook","BUF","14","62","4.4","1"],
-       ]},
-       {label:"Receiving",cols:["Player","Team","Rec","Tgt","Yds","Avg","TD"],rows:[
-         ["Andrews","BAL","9","12","98","10.9","1"],["Flowers","BAL","6","9","74","12.3","1"],
-         ["Diggs","BUF","9","13","121","13.4","1"],["Knox","BUF","5","7","62","12.4","1"],
-       ]},
-     ],
-     notes:"Henry 24 car, 131 yds, 2 TD. Tucker 52-yd FG in 4th. Jackson 31/44, 3 TD."},
-  ],
+  boxScores:[],
   standings:[
     {label:"AFC East",teams:[
       {name:"Buffalo Bills",       w:13,l:4, pct:".765",gb:"—",note:"Lost AFC Divisional"},
@@ -2426,54 +2351,6 @@ function renderLeaders(leaders) {
 
 
 // ── BRACKET ──────────────────────────────────────────────────────────────────
-function renderBracket(rounds) {
-  if (!rounds||!rounds.length) return '';
-  // Identify active round (has at least one series not yet won)
-  const activeRoundIdx = rounds.findIndex(r => r.series.some(s => !s.teams.some(t=>t.won)));
-
-  return `<div style="overflow-x:auto;padding-bottom:8px">
-    <div style="display:flex;gap:0;min-width:600px">
-    ${rounds.map((r, ri) => {
-      const isActive = ri === activeRoundIdx;
-      return `<div style="flex:1;border-right:1px solid #ddd;padding:0 8px;min-width:140px">
-        <div style="font-size:.5rem;font-weight:700;text-transform:uppercase;letter-spacing:1.5px;
-          text-align:center;padding:4px 0;margin-bottom:8px;
-          ${isActive ? 'border-top:3px solid #8B0000;color:#8B0000;' : 'border-top:2px solid #ccc;color:#999;'}">
-          ${r.label}${isActive ? ' ◀ NOW' : ''}
-        </div>
-        ${r.series.map(s => {
-          const t0 = s.teams[0], t1 = s.teams[1];
-          const done = t0.won || t1.won;
-          const active = !done && ri === activeRoundIdx;
-          return `<div style="border:${active ? '2px solid #8B0000' : '1px solid #ddd'};
-            margin-bottom:8px;background:#fff;border-radius:2px;">
-            <div style="display:flex;justify-content:space-between;align-items:center;
-              padding:5px 8px;border-bottom:1px solid #eee;
-              background:${t0.won ? '#111' : '#fff'};
-              color:${t0.won ? '#fff' : '#111'};">
-              <span style="font-size:.68rem;font-weight:${t0.won?'700':'400'}">${t0.n||'TBD'}</span>
-              <span style="font-size:.75rem;font-weight:700;min-width:16px;text-align:right">${t0.wins !== undefined ? t0.wins : ''}</span>
-            </div>
-            <div style="display:flex;justify-content:space-between;align-items:center;
-              padding:5px 8px;
-              background:${t1.won ? '#111' : '#fff'};
-              color:${t1.won ? '#fff' : '#111'};">
-              <span style="font-size:.68rem;font-weight:${t1.won?'700':'400'}">${t1.n||'TBD'}</span>
-              <span style="font-size:.75rem;font-weight:700;min-width:16px;text-align:right">${t1.wins !== undefined ? t1.wins : ''}</span>
-            </div>
-            <div style="font-size:.5rem;color:${active?'#8B0000':'#888'};font-style:italic;
-              text-align:center;padding:3px 6px;background:${active?'#fff8f8':'#f8f8f8'};
-              border-top:1px solid #eee;font-weight:${active?'700':'400'}">
-              ${s.status}
-            </div>
-          </div>`;
-        }).join('')}
-      </div>`;
-    }).join('')}
-    </div>
-  </div>`;
-}
-
 // ═══════════════════════════════════════════
 // BUILD PAGES
 // ═══════════════════════════════════════════
@@ -2545,7 +2422,6 @@ function buildSport(id, overrides) {
   const boxData     = (overrides && overrides.boxScores) || d.boxScores || [];
   const leadersData = (overrides && overrides.leaders)   || d.leaders;
   const hasSplit   = id==='mlb'||id==='nhl';
-  const hasBracket = id==='nba'||id==='nhl';
   const isNFL      = id==='nfl';
   const stdsCount  = (stdsData||[]).length;
 
@@ -2558,8 +2434,8 @@ function buildSport(id, overrides) {
       ${renderSchedule(schedData.filter(g=>g.away&&g.home), isNFL?'Offseason Calendar':'Today\'s Schedule')}
     </div>` : ''}
     <div class="sp-editors-note-mobile">${renderEditorsNote()}</div>
-    ${hasBracket ? secHead('Playoff Bracket')+renderBracket((overrides && overrides.bracket) || d.bracket) : ''}
-    ${secHead(isNFL?'Postseason Results':'Yesterday\'s Box Scores')}
+
+    ${boxData.length ? secHead(isNFL?'Postseason Results':'Yesterday\'s Box Scores') : ''}
     <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:0 20px;align-items:start">
     ${boxData.map((game,idx)=>{
       const bid = `bs-${id}-${idx}`;
@@ -2600,7 +2476,7 @@ function buildSport(id, overrides) {
       </div>`;
     }).join('')}
     </div>
-    ${secHead(isNFL?'Final Standings':id==='nba'?'Playoff Standings':'Standings')}
+    ${(stdsData&&stdsData.length) ? secHead(isNFL?'Final Standings':id==='nba'?'Playoff Standings':'Standings') : ''}
     ${renderStandings(stdsData||[],hasSplit)}
     ${leadersData ? secHead('League Leaders')+renderLeaders(leadersData) : ''}`;
 }
