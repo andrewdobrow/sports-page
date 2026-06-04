@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 01 Jun 2026 01:36:46 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 04 Jun 2026 04:45:33 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Thursday, June 4, 2026: KAT PLAYS THROUGH GRIEF AS KNICKS TOP SPURS IN GAME 1</title>
+    <link>https://thesportspage.app/editions/2026-06-04.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-04.html</guid>
+    <pubDate>Thu, 04 Jun 2026 09:00:00 +0000</pubDate>
+    <description>Towns honors late mother with emotional performance in NBA Finals opener</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Monday, June 1, 2026: </title>
     <link>https://thesportspage.app/editions/2026-05-31.html</link>
