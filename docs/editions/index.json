@@ -1,6 +1,18 @@
 {
   "editions": [
     {
+      "date": "2026-06-06",
+      "label": "Saturday, June 6, 2026",
+      "headline": "WEMBANYAMA'S TURNOVER SEALS KNICKS' STUNNING GAME 2 ROAD WIN",
+      "deck": "New York takes 2-0 series lead as Spurs star's late miscue proves fatal",
+      "kicker": "NBA FINALS",
+      "sports": [
+        "mlb",
+        "nba"
+      ],
+      "url": "editions/2026-06-06.html"
+    },
+    {
       "date": "2026-06-05",
       "label": "Friday, June 5, 2026",
       "headline": "PHILLIES BREAK IT OPEN EARLY, HOLD OFF LATE PADRES SURGE FOR 6-4 WIN",

@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 05 Jun 2026 09:12:48 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 06 Jun 2026 09:15:47 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Saturday, June 6, 2026: WEMBANYAMA'S TURNOVER SEALS KNICKS' STUNNING GAME 2 ROAD WIN</title>
+    <link>https://thesportspage.app/editions/2026-06-06.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-06.html</guid>
+    <pubDate>Sat, 06 Jun 2026 09:00:00 +0000</pubDate>
+    <description>New York takes 2-0 series lead as Spurs star's late miscue proves fatal</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Friday, June 5, 2026: PHILLIES BREAK IT OPEN EARLY, HOLD OFF LATE PADRES SURGE FOR 6-4 WIN</title>
     <link>https://thesportspage.app/editions/2026-06-05.html</link>
