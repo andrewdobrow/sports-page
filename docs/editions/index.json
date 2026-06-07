@@ -1,6 +1,18 @@
 {
   "editions": [
     {
+      "date": "2026-06-07",
+      "label": "Sunday, June 7, 2026",
+      "headline": "THEODORE ENDS IT IN DOUBLE OT AS GOLDEN KNIGHTS GRAB 2-1 SERIES LEAD OVER HURRICANES",
+      "deck": "Vegas defenseman's overtime winner caps wild four-goal comeback in Game 3",
+      "kicker": "NHL PLAYOFFS",
+      "sports": [
+        "mlb",
+        "nhl"
+      ],
+      "url": "editions/2026-06-07.html"
+    },
+    {
       "date": "2026-06-06",
       "label": "Saturday, June 6, 2026",
       "headline": "WEMBANYAMA'S TURNOVER SEALS KNICKS' STUNNING GAME 2 ROAD WIN",
