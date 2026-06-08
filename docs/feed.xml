@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 07 Jun 2026 09:12:25 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 08 Jun 2026 09:12:28 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Monday, June 8, 2026: KNICKS BRING NBA FINALS HOME FOR FIRST TIME IN 27 YEARS</title>
+    <link>https://thesportspage.app/editions/2026-06-08.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-08.html</guid>
+    <pubDate>Mon, 08 Jun 2026 09:00:00 +0000</pubDate>
+    <description>New York leads San Antonio 2-0 as Madison Square Garden hosts Game 3 Monday night</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Sunday, June 7, 2026: THEODORE ENDS IT IN DOUBLE OT AS GOLDEN KNIGHTS GRAB 2-1 SERIES LEAD OVER HURRICANES</title>
     <link>https://thesportspage.app/editions/2026-06-07.html</link>

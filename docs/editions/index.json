@@ -1,6 +1,17 @@
 {
   "editions": [
     {
+      "date": "2026-06-08",
+      "label": "Monday, June 8, 2026",
+      "headline": "KNICKS BRING NBA FINALS HOME FOR FIRST TIME IN 27 YEARS",
+      "deck": "New York leads San Antonio 2-0 as Madison Square Garden hosts Game 3 Monday night",
+      "kicker": "NBA FINALS",
+      "sports": [
+        "mlb"
+      ],
+      "url": "editions/2026-06-08.html"
+    },
+    {
       "date": "2026-06-07",
       "label": "Sunday, June 7, 2026",
       "headline": "THEODORE ENDS IT IN DOUBLE OT AS GOLDEN KNIGHTS GRAB 2-1 SERIES LEAD OVER HURRICANES",
