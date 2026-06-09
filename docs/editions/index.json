@@ -1,6 +1,18 @@
 {
   "editions": [
     {
+      "date": "2026-06-09",
+      "label": "Tuesday, June 9, 2026",
+      "headline": "KNICKS ON THE BRINK AFTER SPURS STEAL GAME 3 AT MSG",
+      "deck": "San Antonio wins 115-111; Brown rips officiating as series shifts to 2-1",
+      "kicker": "NBA PLAYOFFS",
+      "sports": [
+        "mlb",
+        "nba"
+      ],
+      "url": "editions/2026-06-09.html"
+    },
+    {
       "date": "2026-06-08",
       "label": "Monday, June 8, 2026",
       "headline": "KNICKS BRING NBA FINALS HOME FOR FIRST TIME IN 27 YEARS",
