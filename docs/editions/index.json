@@ -1,6 +1,18 @@
 {
   "editions": [
     {
+      "date": "2026-06-11",
+      "label": "Thursday, June 11, 2026",
+      "headline": "KNICKS COMPLETE STUNNING COMEBACK, ERASE 29-POINT HOLE TO STUN SPURS IN GAME 4",
+      "deck": "New York seizes series lead after historic second-half rally in San Antonio",
+      "kicker": "NBA PLAYOFFS",
+      "sports": [
+        "mlb",
+        "nba"
+      ],
+      "url": "editions/2026-06-11.html"
+    },
+    {
       "date": "2026-06-10",
       "label": "Wednesday, June 10, 2026",
       "headline": "MARINERS STEAL ONE IN TEN AS ALONSO WALK-OFF FALLS SHORT",
