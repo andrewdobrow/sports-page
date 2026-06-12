@@ -1,6 +1,18 @@
 {
   "editions": [
     {
+      "date": "2026-06-12",
+      "label": "Friday, June 12, 2026",
+      "headline": "KNICKS ONE WIN FROM THE PROMISED LAND",
+      "deck": "New York eyes NBA Finals title as Brunson and Knicks host Spurs in Game 6",
+      "kicker": "NBA PLAYOFFS",
+      "sports": [
+        "mlb",
+        "nhl"
+      ],
+      "url": "editions/2026-06-12.html"
+    },
+    {
       "date": "2026-06-11",
       "label": "Thursday, June 11, 2026",
       "headline": "KNICKS COMPLETE STUNNING COMEBACK, ERASE 29-POINT HOLE TO STUN SPURS IN GAME 4",
