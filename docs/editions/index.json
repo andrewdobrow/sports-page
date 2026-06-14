@@ -1,6 +1,18 @@
 {
   "editions": [
     {
+      "date": "2026-06-14",
+      "label": "Sunday, June 14, 2026",
+      "headline": "",
+      "deck": "",
+      "kicker": "",
+      "sports": [
+        "mlb",
+        "nba"
+      ],
+      "url": "editions/2026-06-14.html"
+    },
+    {
       "date": "2026-06-13",
       "label": "Saturday, June 13, 2026",
       "headline": "HURRICANES ONE WIN FROM GLORY AS STAAL, CAROLINA HOLD 3-2 SERIES EDGE OVER VEGAS",
