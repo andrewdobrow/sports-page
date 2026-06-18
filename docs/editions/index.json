@@ -1,6 +1,17 @@
 {
   "editions": [
     {
+      "date": "2026-06-18",
+      "label": "Thursday, June 18, 2026",
+      "headline": "METS SAVAGE REDS, 9-1, AS SOTO AND CREW ERUPT FOR FIVE IN FIFTH",
+      "deck": "New York pours it on in Cincinnati, scoring in three separate innings to cruise",
+      "kicker": "BASEBALL",
+      "sports": [
+        "mlb"
+      ],
+      "url": "editions/2026-06-18.html"
+    },
+    {
       "date": "2026-06-17",
       "label": "Wednesday, June 17, 2026",
       "headline": "YANKEES POUND WHITE SOX 12-2 AS BRONX BATS EXPLODE FOR SIX RUNS IN FOURTH",
