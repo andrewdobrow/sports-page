@@ -1,6 +1,17 @@
 {
   "editions": [
     {
+      "date": "2026-06-19",
+      "label": "Friday, June 19, 2026",
+      "headline": "",
+      "deck": "",
+      "kicker": "",
+      "sports": [
+        "mlb"
+      ],
+      "url": "editions/2026-06-19.html"
+    },
+    {
       "date": "2026-06-18",
       "label": "Thursday, June 18, 2026",
       "headline": "METS SAVAGE REDS, 9-1, AS SOTO AND CREW ERUPT FOR FIVE IN FIFTH",
