@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 26 Jun 2026 09:12:28 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 27 Jun 2026 09:12:38 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Saturday, June 27, 2026: TIGERS BLANK ASTROS 8-0 IN DOMINANT SHUTOUT AT COMERICA</title>
+    <link>https://thesportspage.app/editions/2026-06-27.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-27.html</guid>
+    <pubDate>Sat, 27 Jun 2026 09:00:00 +0000</pubDate>
+    <description>Carpenter, Keith, and Outman go deep as Detroit buries Houston without mercy</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Friday, June 26, 2026: RAYS DEMOLISH ROYALS, 13-2, AS CAMINERO BLASTS No. 19</title>
     <link>https://thesportspage.app/editions/2026-06-26.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-05-22.html</guid>
     <pubDate>Fri, 22 May 2026 09:00:00 +0000</pubDate>
     <description>Brunson adds 19 points and 14 assists as New York goes up 2-0 on Cleveland</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Thursday, May 21, 2026: GILGEOUS-ALEXANDER SILENCES SPURS, THUNDER ROAR BACK TO TIE SERIES</title>
-    <link>https://thesportspage.app/editions/2026-05-21.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-05-21.html</guid>
-    <pubDate>Thu, 21 May 2026 09:00:00 +0000</pubDate>
-    <description>SGA's 30-point masterclass forces a pivotal Game 3 in San Antonio</description>
     <category>Sports</category>
   </item>
 </channel>
