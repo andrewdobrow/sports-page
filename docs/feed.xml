@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 29 Jun 2026 09:03:21 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 30 Jun 2026 09:12:29 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Tuesday, June 30, 2026: LIONS RELEASE TERRION ARNOLD AFTER FELONY ARREST ON ROBBERY, KIDNAPPING CHARGES</title>
+    <link>https://thesportspage.app/editions/2026-06-30.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-30.html</guid>
+    <pubDate>Tue, 30 Jun 2026 09:00:00 +0000</pubDate>
+    <description>Detroit cornerback faces bond set at $1 million after arrest on violent felony counts</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Monday, June 29, 2026: GUARDIANS STORM BACK WITH FIVE-RUN EIGHTH TO STUN MARINERS</title>
     <link>https://thesportspage.app/editions/2026-06-29.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-05-25.html</guid>
     <pubDate>Mon, 25 May 2026 09:00:00 +0000</pubDate>
     <description>San Antonio holds Oklahoma City to 82 points as series heads to Game 5 tied 2-2</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Sunday, May 24, 2026: </title>
-    <link>https://thesportspage.app/editions/2026-05-24.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-05-24.html</guid>
-    <pubDate>Sun, 24 May 2026 09:00:00 +0000</pubDate>
-    <description></description>
     <category>Sports</category>
   </item>
 </channel>
