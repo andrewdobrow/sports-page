@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 01 Jul 2026 09:12:31 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 02 Jul 2026 09:12:47 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Thursday, July 2, 2026: CUBS ERUPT FOR 23 RUNS, BURY PADRES IN LOPSIDED WRIGLEY MASSACRE</title>
+    <link>https://thesportspage.app/editions/2026-07-02.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-02.html</guid>
+    <pubDate>Thu, 02 Jul 2026 09:00:00 +0000</pubDate>
+    <description>Chicago scores in seven of nine innings, sends San Diego to fourth straight loss</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Wednesday, July 1, 2026: SOX EXPLODE FOR SEVEN IN THIRD, BATTER ORIOLES, 9-3</title>
     <link>https://thesportspage.app/editions/2026-07-01.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-05-31.html</guid>
     <pubDate>Sun, 31 May 2026 09:00:00 +0000</pubDate>
     <description></description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Tuesday, May 26, 2026: KNICKS ROLL INTO NBA FINALS WITH 130-93 DEMOLITION OF CAVALIERS</title>
-    <link>https://thesportspage.app/editions/2026-05-26.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-05-26.html</guid>
-    <pubDate>Tue, 26 May 2026 09:00:00 +0000</pubDate>
-    <description>New York completes sweep, reaches Finals for first time since 1999</description>
     <category>Sports</category>
   </item>
 </channel>
