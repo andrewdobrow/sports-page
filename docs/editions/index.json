@@ -1,6 +1,17 @@
 {
   "editions": [
     {
+      "date": "2026-07-03",
+      "label": "Friday, July 3, 2026",
+      "headline": "PIRATES SILENCE PHILLIES, 6-1, IN CITIZENS BANK ROUT",
+      "deck": "Pittsburgh erupts for five unanswered runs after third inning to stun Philadelphia",
+      "kicker": "BASEBALL",
+      "sports": [
+        "mlb"
+      ],
+      "url": "editions/2026-07-03.html"
+    },
+    {
       "date": "2026-07-02",
       "label": "Thursday, July 2, 2026",
       "headline": "CUBS ERUPT FOR 23 RUNS, BURY PADRES IN LOPSIDED WRIGLEY MASSACRE",

@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 02 Jul 2026 09:12:47 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 03 Jul 2026 09:12:30 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Friday, July 3, 2026: PIRATES SILENCE PHILLIES, 6-1, IN CITIZENS BANK ROUT</title>
+    <link>https://thesportspage.app/editions/2026-07-03.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-03.html</guid>
+    <pubDate>Fri, 03 Jul 2026 09:00:00 +0000</pubDate>
+    <description>Pittsburgh erupts for five unanswered runs after third inning to stun Philadelphia</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Thursday, July 2, 2026: CUBS ERUPT FOR 23 RUNS, BURY PADRES IN LOPSIDED WRIGLEY MASSACRE</title>
     <link>https://thesportspage.app/editions/2026-07-02.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-04.html</guid>
     <pubDate>Thu, 04 Jun 2026 09:00:00 +0000</pubDate>
     <description>Towns honors late mother with emotional performance in NBA Finals opener</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Monday, June 1, 2026: </title>
-    <link>https://thesportspage.app/editions/2026-05-31.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-05-31.html</guid>
-    <pubDate>Sun, 31 May 2026 09:00:00 +0000</pubDate>
-    <description></description>
     <category>Sports</category>
   </item>
 </channel>
