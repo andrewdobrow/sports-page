@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 03 Jul 2026 09:12:30 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 09:12:50 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Saturday, July 4, 2026: OHTANI EXITS EARLY, DODGERS HOLD BREATH ON INDEPENDENCE DAY</title>
+    <link>https://thesportspage.app/editions/2026-07-04.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-04.html</guid>
+    <pubDate>Sat, 04 Jul 2026 09:00:00 +0000</pubDate>
+    <description>Star righty throws season-high 110 pitches before leaving seventh inning with biceps concern.</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Friday, July 3, 2026: PIRATES SILENCE PHILLIES, 6-1, IN CITIZENS BANK ROUT</title>
     <link>https://thesportspage.app/editions/2026-07-03.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-05.html</guid>
     <pubDate>Fri, 05 Jun 2026 09:00:00 +0000</pubDate>
     <description>Philadelphia scores six through seven innings, survives San Diego rally in ninth</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Thursday, June 4, 2026: KAT PLAYS THROUGH GRIEF AS KNICKS TOP SPURS IN GAME 1</title>
-    <link>https://thesportspage.app/editions/2026-06-04.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-04.html</guid>
-    <pubDate>Thu, 04 Jun 2026 09:00:00 +0000</pubDate>
-    <description>Towns honors late mother with emotional performance in NBA Finals opener</description>
     <category>Sports</category>
   </item>
 </channel>

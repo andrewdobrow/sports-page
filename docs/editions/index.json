@@ -1,6 +1,17 @@
 {
   "editions": [
     {
+      "date": "2026-07-04",
+      "label": "Saturday, July 4, 2026",
+      "headline": "OHTANI EXITS EARLY, DODGERS HOLD BREATH ON INDEPENDENCE DAY",
+      "deck": "Star righty throws season-high 110 pitches before leaving seventh inning with biceps concern.",
+      "kicker": "MLB",
+      "sports": [
+        "mlb"
+      ],
+      "url": "editions/2026-07-04.html"
+    },
+    {
       "date": "2026-07-03",
       "label": "Friday, July 3, 2026",
       "headline": "PIRATES SILENCE PHILLIES, 6-1, IN CITIZENS BANK ROUT",
