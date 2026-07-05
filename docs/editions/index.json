@@ -1,6 +1,17 @@
 {
   "editions": [
     {
+      "date": "2026-07-05",
+      "label": "Sunday, July 5, 2026",
+      "headline": "TIGERS SHUT OUT RANGERS, 3-0, BEHIND GREENE'S 12th BLAST",
+      "deck": "Detroit silences Texas from the first pitch, Greene's homer headlines a complete effort.",
+      "kicker": "BASEBALL",
+      "sports": [
+        "mlb"
+      ],
+      "url": "editions/2026-07-05.html"
+    },
+    {
       "date": "2026-07-04",
       "label": "Saturday, July 4, 2026",
       "headline": "OHTANI EXITS EARLY, DODGERS HOLD BREATH ON INDEPENDENCE DAY",
