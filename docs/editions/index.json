@@ -1,6 +1,17 @@
 {
   "editions": [
     {
+      "date": "2026-07-07",
+      "label": "Tuesday, July 7, 2026",
+      "headline": "NATIONALS SURVIVE ASTROS IN 12-11 SLUGFEST AT NATIONALS PARK",
+      "deck": "Six home runs fly as Washington holds on after Houston nearly erases a six-run deficit",
+      "kicker": "BASEBALL",
+      "sports": [
+        "mlb"
+      ],
+      "url": "editions/2026-07-07.html"
+    },
+    {
       "date": "2026-07-06",
       "label": "Monday, July 6, 2026",
       "headline": "METS RALLY FROM THREE DOWN, THEN HOLD ON BY A THREAD IN 10-9 CLASSIC",

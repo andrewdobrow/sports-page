@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 06 Jul 2026 09:12:45 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 07 Jul 2026 09:12:32 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Tuesday, July 7, 2026: NATIONALS SURVIVE ASTROS IN 12-11 SLUGFEST AT NATIONALS PARK</title>
+    <link>https://thesportspage.app/editions/2026-07-07.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-07.html</guid>
+    <pubDate>Tue, 07 Jul 2026 09:00:00 +0000</pubDate>
+    <description>Six home runs fly as Washington holds on after Houston nearly erases a six-run deficit</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Monday, July 6, 2026: METS RALLY FROM THREE DOWN, THEN HOLD ON BY A THREAD IN 10-9 CLASSIC</title>
     <link>https://thesportspage.app/editions/2026-07-06.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-08.html</guid>
     <pubDate>Mon, 08 Jun 2026 09:00:00 +0000</pubDate>
     <description>New York leads San Antonio 2-0 as Madison Square Garden hosts Game 3 Monday night</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Sunday, June 7, 2026: THEODORE ENDS IT IN DOUBLE OT AS GOLDEN KNIGHTS GRAB 2-1 SERIES LEAD OVER HURRICANES</title>
-    <link>https://thesportspage.app/editions/2026-06-07.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-07.html</guid>
-    <pubDate>Sun, 07 Jun 2026 09:00:00 +0000</pubDate>
-    <description>Vegas defenseman's overtime winner caps wild four-goal comeback in Game 3</description>
     <category>Sports</category>
   </item>
 </channel>
