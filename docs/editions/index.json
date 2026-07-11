@@ -1,6 +1,17 @@
 {
   "editions": [
     {
+      "date": "2026-07-11",
+      "label": "Saturday, July 11, 2026",
+      "headline": "TIGERS MAUL PHILLIES 10-2 AS DETROIT ERUPTS FOR EIGHT RUNS IN FINAL TWO INNINGS",
+      "deck": "Hill, McGonigle homer as Detroit's bats explode late at Comerica Park",
+      "kicker": "MLB",
+      "sports": [
+        "mlb"
+      ],
+      "url": "editions/2026-07-11.html"
+    },
+    {
       "date": "2026-07-10",
       "label": "Friday, July 10, 2026",
       "headline": "BRAVES SLUG FIVE HOMERS, CRUSH PIRATES 10-5 IN PITTSBURGH",

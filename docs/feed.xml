@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 10 Jul 2026 09:12:45 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 11 Jul 2026 09:13:00 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Saturday, July 11, 2026: TIGERS MAUL PHILLIES 10-2 AS DETROIT ERUPTS FOR EIGHT RUNS IN FINAL TWO INNINGS</title>
+    <link>https://thesportspage.app/editions/2026-07-11.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-11.html</guid>
+    <pubDate>Sat, 11 Jul 2026 09:00:00 +0000</pubDate>
+    <description>Hill, McGonigle homer as Detroit's bats explode late at Comerica Park</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Friday, July 10, 2026: BRAVES SLUG FIVE HOMERS, CRUSH PIRATES 10-5 IN PITTSBURGH</title>
     <link>https://thesportspage.app/editions/2026-07-10.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-12.html</guid>
     <pubDate>Fri, 12 Jun 2026 09:00:00 +0000</pubDate>
     <description>New York eyes NBA Finals title as Brunson and Knicks host Spurs in Game 6</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Thursday, June 11, 2026: KNICKS COMPLETE STUNNING COMEBACK, ERASE 29-POINT HOLE TO STUN SPURS IN GAME 4</title>
-    <link>https://thesportspage.app/editions/2026-06-11.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-11.html</guid>
-    <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
-    <description>New York seizes series lead after historic second-half rally in San Antonio</description>
     <category>Sports</category>
   </item>
 </channel>
