@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 11 Jul 2026 09:13:00 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 09:12:52 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Sunday, July 12, 2026: SPROAT BEANS THREE BREWERS, PIRATES TAKE GAME ONE 7-6 IN WILD SATURDAY OPENER</title>
+    <link>https://thesportspage.app/editions/2026-07-12.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-12.html</guid>
+    <pubDate>Sun, 12 Jul 2026 09:00:00 +0000</pubDate>
+    <description>Pittsburgh starter hits Mangum, Reynolds and O'Hearn as Pirates claw past Milwaukee in doubleheader sweep</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Saturday, July 11, 2026: TIGERS MAUL PHILLIES 10-2 AS DETROIT ERUPTS FOR EIGHT RUNS IN FINAL TWO INNINGS</title>
     <link>https://thesportspage.app/editions/2026-07-11.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-13.html</guid>
     <pubDate>Sat, 13 Jun 2026 09:00:00 +0000</pubDate>
     <description>Game 6 set for Sunday on ABC as Carolina chases second Stanley Cup in franchise history.</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Friday, June 12, 2026: KNICKS ONE WIN FROM THE PROMISED LAND</title>
-    <link>https://thesportspage.app/editions/2026-06-12.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-12.html</guid>
-    <pubDate>Fri, 12 Jun 2026 09:00:00 +0000</pubDate>
-    <description>New York eyes NBA Finals title as Brunson and Knicks host Spurs in Game 6</description>
     <category>Sports</category>
   </item>
 </channel>
