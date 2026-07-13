@@ -1,6 +1,17 @@
 {
   "editions": [
     {
+      "date": "2026-07-13",
+      "label": "Monday, July 13, 2026",
+      "headline": "BUCS BURY BREWERS, 14-5, IN PITTSBURGH SLUGFEST",
+      "deck": "Pirates erupt for 10 runs in the fourth inning to run Milwaukee off PNC Park",
+      "kicker": "BASEBALL",
+      "sports": [
+        "mlb"
+      ],
+      "url": "editions/2026-07-13.html"
+    },
+    {
       "date": "2026-07-12",
       "label": "Sunday, July 12, 2026",
       "headline": "SPROAT BEANS THREE BREWERS, PIRATES TAKE GAME ONE 7-6 IN WILD SATURDAY OPENER",

@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 12 Jul 2026 09:12:52 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 09:12:40 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Monday, July 13, 2026: BUCS BURY BREWERS, 14-5, IN PITTSBURGH SLUGFEST</title>
+    <link>https://thesportspage.app/editions/2026-07-13.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-13.html</guid>
+    <pubDate>Mon, 13 Jul 2026 09:00:00 +0000</pubDate>
+    <description>Pirates erupt for 10 runs in the fourth inning to run Milwaukee off PNC Park</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Sunday, July 12, 2026: SPROAT BEANS THREE BREWERS, PIRATES TAKE GAME ONE 7-6 IN WILD SATURDAY OPENER</title>
     <link>https://thesportspage.app/editions/2026-07-12.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-14.html</guid>
     <pubDate>Sun, 14 Jun 2026 09:00:00 +0000</pubDate>
     <description></description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Saturday, June 13, 2026: HURRICANES ONE WIN FROM GLORY AS STAAL, CAROLINA HOLD 3-2 SERIES EDGE OVER VEGAS</title>
-    <link>https://thesportspage.app/editions/2026-06-13.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-13.html</guid>
-    <pubDate>Sat, 13 Jun 2026 09:00:00 +0000</pubDate>
-    <description>Game 6 set for Sunday on ABC as Carolina chases second Stanley Cup in franchise history.</description>
     <category>Sports</category>
   </item>
 </channel>
