@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 14 Jul 2026 09:12:11 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 15 Jul 2026 09:12:19 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Wednesday, July 15, 2026: BELLINGER, CEASE MAKE PHILLY A ONE-SIDED AFFAIR</title>
+    <link>https://thesportspage.app/editions/2026-07-15.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-15.html</guid>
+    <pubDate>Wed, 15 Jul 2026 09:00:00 +0000</pubDate>
+    <description>AL's 4-0 shutout features 15 strikeouts, three hits allowed, and a dominant first inning.</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Tuesday, July 14, 2026: WALKER CLOSES THE SHOW: SIX CONSECUTIVE HOMERS SEAL DERBY GLORY FOR ST. LOUIS</title>
     <link>https://thesportspage.app/editions/2026-07-14.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-16.html</guid>
     <pubDate>Tue, 16 Jun 2026 09:00:00 +0000</pubDate>
     <description>Zack Wheeler dominates in a two-hour, 45-minute gem before 39,241 at Citizens Bank Park</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Monday, June 15, 2026: </title>
-    <link>https://thesportspage.app/editions/2026-06-15.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-15.html</guid>
-    <pubDate>Mon, 15 Jun 2026 09:00:00 +0000</pubDate>
-    <description></description>
     <category>Sports</category>
   </item>
 </channel>

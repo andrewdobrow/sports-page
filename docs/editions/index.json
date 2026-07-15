@@ -1,6 +1,17 @@
 {
   "editions": [
     {
+      "date": "2026-07-15",
+      "label": "Wednesday, July 15, 2026",
+      "headline": "BELLINGER, CEASE MAKE PHILLY A ONE-SIDED AFFAIR",
+      "deck": "AL's 4-0 shutout features 15 strikeouts, three hits allowed, and a dominant first inning.",
+      "kicker": "MLB ALL-STAR GAME",
+      "sports": [
+        "mlb"
+      ],
+      "url": "editions/2026-07-15.html"
+    },
+    {
       "date": "2026-07-14",
       "label": "Tuesday, July 14, 2026",
       "headline": "WALKER CLOSES THE SHOW: SIX CONSECUTIVE HOMERS SEAL DERBY GLORY FOR ST. LOUIS",
