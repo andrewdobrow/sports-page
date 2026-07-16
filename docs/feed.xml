@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 15 Jul 2026 09:12:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Jul 2026 09:12:27 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Thursday, July 16, 2026: ABBOTT EARNS JIMMY V AWARD, A STANDING OVATION DECADES IN THE MAKING</title>
+    <link>https://thesportspage.app/editions/2026-07-16.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-16.html</guid>
+    <pubDate>Thu, 16 Jul 2026 09:00:00 +0000</pubDate>
+    <description>One-handed pitcher's life story moves ESPYS crowd to its feet in Los Angeles</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Wednesday, July 15, 2026: BELLINGER, CEASE MAKE PHILLY A ONE-SIDED AFFAIR</title>
     <link>https://thesportspage.app/editions/2026-07-15.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-17.html</guid>
     <pubDate>Wed, 17 Jun 2026 09:00:00 +0000</pubDate>
     <description>New York buries Chicago with a four-inning, 11-run surge at Yankee Stadium</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Tuesday, June 16, 2026: WHEELER BLANKS MARLINS AS PHILLIES ROLL 7-0</title>
-    <link>https://thesportspage.app/editions/2026-06-16.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-16.html</guid>
-    <pubDate>Tue, 16 Jun 2026 09:00:00 +0000</pubDate>
-    <description>Zack Wheeler dominates in a two-hour, 45-minute gem before 39,241 at Citizens Bank Park</description>
     <category>Sports</category>
   </item>
 </channel>
