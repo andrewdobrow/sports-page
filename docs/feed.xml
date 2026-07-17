@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 16 Jul 2026 09:12:27 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 17 Jul 2026 09:12:14 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Friday, July 17, 2026: METS BATS STAY HOT ON ROAD AS BATY, ALVAREZ HOMER IN 4-1 WIN OVER PHILLIES</title>
+    <link>https://thesportspage.app/editions/2026-07-17.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-17.html</guid>
+    <pubDate>Fri, 17 Jul 2026 09:00:00 +0000</pubDate>
+    <description>New York breaks open a pitchers' duel with a two-run seventh, silencing Citizens Bank Park</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Thursday, July 16, 2026: ABBOTT EARNS JIMMY V AWARD, A STANDING OVATION DECADES IN THE MAKING</title>
     <link>https://thesportspage.app/editions/2026-07-16.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-18.html</guid>
     <pubDate>Thu, 18 Jun 2026 09:00:00 +0000</pubDate>
     <description>New York pours it on in Cincinnati, scoring in three separate innings to cruise</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Wednesday, June 17, 2026: YANKEES POUND WHITE SOX 12-2 AS BRONX BATS EXPLODE FOR SIX RUNS IN FOURTH</title>
-    <link>https://thesportspage.app/editions/2026-06-17.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-17.html</guid>
-    <pubDate>Wed, 17 Jun 2026 09:00:00 +0000</pubDate>
-    <description>New York buries Chicago with a four-inning, 11-run surge at Yankee Stadium</description>
     <category>Sports</category>
   </item>
 </channel>
