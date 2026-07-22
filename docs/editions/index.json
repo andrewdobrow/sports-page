@@ -1,6 +1,17 @@
 {
   "editions": [
     {
+      "date": "2026-07-22",
+      "label": "Wednesday, July 22, 2026",
+      "headline": "RAYS ROLL INTO TORONTO AND ROLL RIGHT OVER THE BLUE JAYS, 12-2",
+      "deck": "Tampa Bay explodes for four in the ninth to finish a thorough demolition at Rogers Centre",
+      "kicker": "MLB",
+      "sports": [
+        "mlb"
+      ],
+      "url": "editions/2026-07-22.html"
+    },
+    {
       "date": "2026-07-21",
       "label": "Tuesday, July 21, 2026",
       "headline": "GUARDIANS BATTER TWINS 13-4, THREE CLEVELAND BATS GO DEEP",

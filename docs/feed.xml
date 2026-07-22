@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 21 Jul 2026 09:13:10 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 22 Jul 2026 09:12:49 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Wednesday, July 22, 2026: RAYS ROLL INTO TORONTO AND ROLL RIGHT OVER THE BLUE JAYS, 12-2</title>
+    <link>https://thesportspage.app/editions/2026-07-22.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-22.html</guid>
+    <pubDate>Wed, 22 Jul 2026 09:00:00 +0000</pubDate>
+    <description>Tampa Bay explodes for four in the ninth to finish a thorough demolition at Rogers Centre</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Tuesday, July 21, 2026: GUARDIANS BATTER TWINS 13-4, THREE CLEVELAND BATS GO DEEP</title>
     <link>https://thesportspage.app/editions/2026-07-21.html</link>
@@ -241,14 +249,6 @@
     <link>https://thesportspage.app/editions/2026-06-23.html</link>
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-23.html</guid>
     <pubDate>Tue, 23 Jun 2026 09:00:00 +0000</pubDate>
-    <description></description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Monday, June 22, 2026: </title>
-    <link>https://thesportspage.app/editions/2026-06-22.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-22.html</guid>
-    <pubDate>Mon, 22 Jun 2026 09:00:00 +0000</pubDate>
     <description></description>
     <category>Sports</category>
   </item>
