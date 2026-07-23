@@ -1,6 +1,17 @@
 {
   "editions": [
     {
+      "date": "2026-07-23",
+      "label": "Thursday, July 23, 2026",
+      "headline": "PIRATES COMPLETE DOUBLEHEADER SPLIT AT THE STADIUM, STEAL SERIES LEAD IN TEN",
+      "deck": "Pittsburgh wins wild nightcap in extra innings after Yankees take the afternoon game",
+      "kicker": "MLB",
+      "sports": [
+        "mlb"
+      ],
+      "url": "editions/2026-07-23.html"
+    },
+    {
       "date": "2026-07-22",
       "label": "Wednesday, July 22, 2026",
       "headline": "RAYS ROLL INTO TORONTO AND ROLL RIGHT OVER THE BLUE JAYS, 12-2",

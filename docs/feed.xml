@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 22 Jul 2026 09:12:49 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 09:12:46 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Thursday, July 23, 2026: PIRATES COMPLETE DOUBLEHEADER SPLIT AT THE STADIUM, STEAL SERIES LEAD IN TEN</title>
+    <link>https://thesportspage.app/editions/2026-07-23.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-23.html</guid>
+    <pubDate>Thu, 23 Jul 2026 09:00:00 +0000</pubDate>
+    <description>Pittsburgh wins wild nightcap in extra innings after Yankees take the afternoon game</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Wednesday, July 22, 2026: RAYS ROLL INTO TORONTO AND ROLL RIGHT OVER THE BLUE JAYS, 12-2</title>
     <link>https://thesportspage.app/editions/2026-07-22.html</link>
@@ -241,14 +249,6 @@
     <link>https://thesportspage.app/editions/2026-06-24.html</link>
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-24.html</guid>
     <pubDate>Wed, 24 Jun 2026 09:00:00 +0000</pubDate>
-    <description></description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Tuesday, June 23, 2026: </title>
-    <link>https://thesportspage.app/editions/2026-06-23.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-23.html</guid>
-    <pubDate>Tue, 23 Jun 2026 09:00:00 +0000</pubDate>
     <description></description>
     <category>Sports</category>
   </item>
