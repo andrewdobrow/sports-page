@@ -1,6 +1,17 @@
 {
   "editions": [
     {
+      "date": "2026-07-25",
+      "label": "Saturday, July 25, 2026",
+      "headline": "CROW-ARMSTRONG BLASTS NO. 22 IN TENTH AS CUBS ESCAPE PITTSBURGH, 3-2",
+      "deck": "Chicago outfielder's home run in extras lifts Cubs past Pirates in ten-inning thriller",
+      "kicker": "MLB",
+      "sports": [
+        "mlb"
+      ],
+      "url": "editions/2026-07-25.html"
+    },
+    {
       "date": "2026-07-24",
       "label": "Friday, July 24, 2026",
       "headline": "OUTMAN BLASTS TIGERS INTO DAYLIGHT WITH SEVENTH-INNING BOMB",
