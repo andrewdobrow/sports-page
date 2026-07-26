@@ -1,6 +1,17 @@
 {
   "editions": [
     {
+      "date": "2026-07-26",
+      "label": "Sunday, July 26, 2026",
+      "headline": "BLUE JAYS BURY RED SOX, 6-0, AS SPRINGER GOES DEEP IN THIRD-INNING BURST",
+      "deck": "Toronto erupts for five runs in the third at Fenway, silencing Boston's offense completely.",
+      "kicker": "BASEBALL",
+      "sports": [
+        "mlb"
+      ],
+      "url": "editions/2026-07-26.html"
+    },
+    {
       "date": "2026-07-25",
       "label": "Saturday, July 25, 2026",
       "headline": "CROW-ARMSTRONG BLASTS NO. 22 IN TENTH AS CUBS ESCAPE PITTSBURGH, 3-2",
