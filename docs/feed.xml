@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 28 Jul 2026 09:12:40 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 09:12:44 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Wednesday, July 29, 2026: DIAMONDBACKS SURVIVE 12-INNING MARATHON IN PITTSBURGH, 8-7</title>
+    <link>https://thesportspage.app/editions/2026-07-29.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-29.html</guid>
+    <pubDate>Wed, 29 Jul 2026 09:00:00 +0000</pubDate>
+    <description>Arizona escapes PNC Park after Pirates rally from six down in final two innings</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Tuesday, July 28, 2026: MARLINS STUN PHILLIES WITH THREE-RUN NINTH, 8-7</title>
     <link>https://thesportspage.app/editions/2026-07-28.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-30.html</guid>
     <pubDate>Tue, 30 Jun 2026 09:00:00 +0000</pubDate>
     <description>Detroit cornerback faces bond set at $1 million after arrest on violent felony counts</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Monday, June 29, 2026: GUARDIANS STORM BACK WITH FIVE-RUN EIGHTH TO STUN MARINERS</title>
-    <link>https://thesportspage.app/editions/2026-06-29.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-29.html</guid>
-    <pubDate>Mon, 29 Jun 2026 09:00:00 +0000</pubDate>
-    <description>Cleveland rallies from four-run deficit to edge Seattle 6-5 at Progressive Field</description>
     <category>Sports</category>
   </item>
 </channel>
