@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 29 Jul 2026 09:12:44 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 30 Jul 2026 09:12:29 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Thursday, July 30, 2026: MARLINS STORM BACK FROM FOUR DOWN TO SINK PHILLIES, 8-6</title>
+    <link>https://thesportspage.app/editions/2026-07-30.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-30.html</guid>
+    <pubDate>Thu, 30 Jul 2026 09:00:00 +0000</pubDate>
+    <description>Miami erupts for six unanswered runs across the seventh and eighth innings at loanDepot park</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Wednesday, July 29, 2026: DIAMONDBACKS SURVIVE 12-INNING MARATHON IN PITTSBURGH, 8-7</title>
     <link>https://thesportspage.app/editions/2026-07-29.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-01.html</guid>
     <pubDate>Wed, 01 Jul 2026 09:00:00 +0000</pubDate>
     <description>Montgomery's 21st homer keys a stunning inning that buried Baltimore at Camden Yards</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Tuesday, June 30, 2026: LIONS RELEASE TERRION ARNOLD AFTER FELONY ARREST ON ROBBERY, KIDNAPPING CHARGES</title>
-    <link>https://thesportspage.app/editions/2026-06-30.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-06-30.html</guid>
-    <pubDate>Tue, 30 Jun 2026 09:00:00 +0000</pubDate>
-    <description>Detroit cornerback faces bond set at $1 million after arrest on violent felony counts</description>
     <category>Sports</category>
   </item>
 </channel>

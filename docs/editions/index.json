@@ -1,6 +1,17 @@
 {
   "editions": [
     {
+      "date": "2026-07-30",
+      "label": "Thursday, July 30, 2026",
+      "headline": "MARLINS STORM BACK FROM FOUR DOWN TO SINK PHILLIES, 8-6",
+      "deck": "Miami erupts for six unanswered runs across the seventh and eighth innings at loanDepot park",
+      "kicker": "BASEBALL",
+      "sports": [
+        "mlb"
+      ],
+      "url": "editions/2026-07-30.html"
+    },
+    {
       "date": "2026-07-29",
       "label": "Wednesday, July 29, 2026",
       "headline": "DIAMONDBACKS SURVIVE 12-INNING MARATHON IN PITTSBURGH, 8-7",
