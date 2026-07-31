@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 30 Jul 2026 09:12:29 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 09:12:29 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Friday, July 31, 2026: TWINS ERUPT FOR FOUR IN THE NINTH TO STEAL ONE FROM KANSAS CITY</title>
+    <link>https://thesportspage.app/editions/2026-07-31.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-31.html</guid>
+    <pubDate>Fri, 31 Jul 2026 09:00:00 +0000</pubDate>
+    <description>Minnesota rallies from three runs down to stun the Royals at Target Field</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Thursday, July 30, 2026: MARLINS STORM BACK FROM FOUR DOWN TO SINK PHILLIES, 8-6</title>
     <link>https://thesportspage.app/editions/2026-07-30.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-02.html</guid>
     <pubDate>Thu, 02 Jul 2026 09:00:00 +0000</pubDate>
     <description>Chicago scores in seven of nine innings, sends San Diego to fourth straight loss</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Wednesday, July 1, 2026: SOX EXPLODE FOR SEVEN IN THIRD, BATTER ORIOLES, 9-3</title>
-    <link>https://thesportspage.app/editions/2026-07-01.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-01.html</guid>
-    <pubDate>Wed, 01 Jul 2026 09:00:00 +0000</pubDate>
-    <description>Montgomery's 21st homer keys a stunning inning that buried Baltimore at Camden Yards</description>
     <category>Sports</category>
   </item>
 </channel>
