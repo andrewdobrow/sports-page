@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Fri, 31 Jul 2026 09:12:29 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 09:12:32 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Saturday, August 1, 2026: ORIOLES EXPLODE FOR FOUR IN THE SEVENTH TO DOWN PHILLIES, 6-4</title>
+    <link>https://thesportspage.app/editions/2026-08-01.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-08-01.html</guid>
+    <pubDate>Sat, 01 Aug 2026 09:00:00 +0000</pubDate>
+    <description>Baltimore bats erupt in pivotal frame to snap tight game wide open</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Friday, July 31, 2026: TWINS ERUPT FOR FOUR IN THE NINTH TO STEAL ONE FROM KANSAS CITY</title>
     <link>https://thesportspage.app/editions/2026-07-31.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-03.html</guid>
     <pubDate>Fri, 03 Jul 2026 09:00:00 +0000</pubDate>
     <description>Pittsburgh erupts for five unanswered runs after third inning to stun Philadelphia</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Thursday, July 2, 2026: CUBS ERUPT FOR 23 RUNS, BURY PADRES IN LOPSIDED WRIGLEY MASSACRE</title>
-    <link>https://thesportspage.app/editions/2026-07-02.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-02.html</guid>
-    <pubDate>Thu, 02 Jul 2026 09:00:00 +0000</pubDate>
-    <description>Chicago scores in seven of nine innings, sends San Diego to fourth straight loss</description>
     <category>Sports</category>
   </item>
 </channel>

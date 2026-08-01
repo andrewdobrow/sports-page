@@ -1,6 +1,17 @@
 {
   "editions": [
     {
+      "date": "2026-08-01",
+      "label": "Saturday, August 1, 2026",
+      "headline": "ORIOLES EXPLODE FOR FOUR IN THE SEVENTH TO DOWN PHILLIES, 6-4",
+      "deck": "Baltimore bats erupt in pivotal frame to snap tight game wide open",
+      "kicker": "MLB",
+      "sports": [
+        "mlb"
+      ],
+      "url": "editions/2026-08-01.html"
+    },
+    {
       "date": "2026-07-31",
       "label": "Friday, July 31, 2026",
       "headline": "TWINS ERUPT FOR FOUR IN THE NINTH TO STEAL ONE FROM KANSAS CITY",
