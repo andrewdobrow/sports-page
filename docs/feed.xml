@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Sat, 01 Aug 2026 09:12:32 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 02 Aug 2026 09:12:42 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Sunday, August 2, 2026: SKUBAL HEADED TO DODGERS IN BLOCKBUSTER DEADLINE DEAL</title>
+    <link>https://thesportspage.app/editions/2026-08-02.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-08-02.html</guid>
+    <pubDate>Sun, 02 Aug 2026 09:00:00 +0000</pubDate>
+    <description>Two-time Cy Young winner leaves Detroit in tears as Los Angeles adds ace to dynasty rotation</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Saturday, August 1, 2026: ORIOLES EXPLODE FOR FOUR IN THE SEVENTH TO DOWN PHILLIES, 6-4</title>
     <link>https://thesportspage.app/editions/2026-08-01.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-04.html</guid>
     <pubDate>Sat, 04 Jul 2026 09:00:00 +0000</pubDate>
     <description>Star righty throws season-high 110 pitches before leaving seventh inning with biceps concern.</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Friday, July 3, 2026: PIRATES SILENCE PHILLIES, 6-1, IN CITIZENS BANK ROUT</title>
-    <link>https://thesportspage.app/editions/2026-07-03.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-03.html</guid>
-    <pubDate>Fri, 03 Jul 2026 09:00:00 +0000</pubDate>
-    <description>Pittsburgh erupts for five unanswered runs after third inning to stun Philadelphia</description>
     <category>Sports</category>
   </item>
 </channel>
