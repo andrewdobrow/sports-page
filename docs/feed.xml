@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Mon, 03 Aug 2026 09:12:52 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 04 Aug 2026 09:12:23 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Tuesday, August 4, 2026: PHILLIES ERASE TWO-RUN DEFICIT WITH SIX-RUN SEVENTH TO DOWN NATIONALS, 6-3</title>
+    <link>https://thesportspage.app/editions/2026-08-04.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-08-04.html</guid>
+    <pubDate>Tue, 04 Aug 2026 09:00:00 +0000</pubDate>
+    <description>Philadelphia bats explode in seventh inning, silencing Washington after early lead</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Monday, August 3, 2026: RAFAELA GOES DEEP THREE STRAIGHT AS RED SOX SWEEP DODGERS</title>
     <link>https://thesportspage.app/editions/2026-08-03.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-06.html</guid>
     <pubDate>Mon, 06 Jul 2026 09:00:00 +0000</pubDate>
     <description>New York scores five in the ninth, survives Atlanta's furious answer to steal road win</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Sunday, July 5, 2026: TIGERS SHUT OUT RANGERS, 3-0, BEHIND GREENE'S 12th BLAST</title>
-    <link>https://thesportspage.app/editions/2026-07-05.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-05.html</guid>
-    <pubDate>Sun, 05 Jul 2026 09:00:00 +0000</pubDate>
-    <description>Detroit silences Texas from the first pitch, Greene's homer headlines a complete effort.</description>
     <category>Sports</category>
   </item>
 </channel>

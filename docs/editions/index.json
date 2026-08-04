@@ -1,6 +1,17 @@
 {
   "editions": [
     {
+      "date": "2026-08-04",
+      "label": "Tuesday, August 4, 2026",
+      "headline": "PHILLIES ERASE TWO-RUN DEFICIT WITH SIX-RUN SEVENTH TO DOWN NATIONALS, 6-3",
+      "deck": "Philadelphia bats explode in seventh inning, silencing Washington after early lead",
+      "kicker": "BASEBALL",
+      "sports": [
+        "mlb"
+      ],
+      "url": "editions/2026-08-04.html"
+    },
+    {
       "date": "2026-08-03",
       "label": "Monday, August 3, 2026",
       "headline": "RAFAELA GOES DEEP THREE STRAIGHT AS RED SOX SWEEP DODGERS",
