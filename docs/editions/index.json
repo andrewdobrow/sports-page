@@ -1,6 +1,19 @@
 {
   "editions": [
     {
+      "date": "2026-10-04",
+      "label": "Sunday, October 4, 2026",
+      "headline": "AVALANCHE BURY BLUES, 6-1, TO TAKE COMMANDING SERIES LEAD",
+      "deck": "Necas and Roy strike 23 seconds apart in a four-goal second period to blow open the game.",
+      "kicker": "MLB PLAYOFFS",
+      "sports": [
+        "mlb",
+        "nba",
+        "nhl"
+      ],
+      "url": "editions/2026-10-04.html"
+    },
+    {
       "date": "2026-08-04",
       "label": "Tuesday, August 4, 2026",
       "headline": "PHILLIES ERASE TWO-RUN DEFICIT WITH SIX-RUN SEVENTH TO DOWN NATIONALS, 6-3",

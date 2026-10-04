@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 04 Aug 2026 09:12:23 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 04 Oct 2026 09:15:27 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Sunday, October 4, 2026: AVALANCHE BURY BLUES, 6-1, TO TAKE COMMANDING SERIES LEAD</title>
+    <link>https://thesportspage.app/editions/2026-10-04.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-10-04.html</guid>
+    <pubDate>Sun, 04 Oct 2026 09:00:00 +0000</pubDate>
+    <description>Necas and Roy strike 23 seconds apart in a four-goal second period to blow open the game.</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Tuesday, August 4, 2026: PHILLIES ERASE TWO-RUN DEFICIT WITH SIX-RUN SEVENTH TO DOWN NATIONALS, 6-3</title>
     <link>https://thesportspage.app/editions/2026-08-04.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-07.html</guid>
     <pubDate>Tue, 07 Jul 2026 09:00:00 +0000</pubDate>
     <description>Six home runs fly as Washington holds on after Houston nearly erases a six-run deficit</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Monday, July 6, 2026: METS RALLY FROM THREE DOWN, THEN HOLD ON BY A THREAD IN 10-9 CLASSIC</title>
-    <link>https://thesportspage.app/editions/2026-07-06.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-06.html</guid>
-    <pubDate>Mon, 06 Jul 2026 09:00:00 +0000</pubDate>
-    <description>New York scores five in the ninth, survives Atlanta's furious answer to steal road win</description>
     <category>Sports</category>
   </item>
 </channel>
