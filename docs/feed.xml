@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 07 Oct 2026 09:24:42 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 09:28:20 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Thursday, October 8, 2026: MITCHELL'S MIRACLE GRAB SENDS BREWERS TO NLCS</title>
+    <link>https://thesportspage.app/editions/2026-10-08.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-10-08.html</guid>
+    <pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
+    <description>Outfielder robs Machado of tying homer in eighth as Milwaukee eliminates San Diego</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Wednesday, October 7, 2026: YAMAMOTO FANS 10, DODGERS ONE WIN FROM SWEEPING BRAVES</title>
     <link>https://thesportspage.app/editions/2026-10-07.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-09.html</guid>
     <pubDate>Thu, 09 Jul 2026 09:00:00 +0000</pubDate>
     <description>Toronto erupts for five in the first inning, never looks back at Oracle Park</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Wednesday, July 8, 2026: WHEELER SNUBBED BY ALL-STARS, ANSWERS WITH 14 STRIKEOUTS</title>
-    <link>https://thesportspage.app/editions/2026-07-08.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-08.html</guid>
-    <pubDate>Wed, 08 Jul 2026 09:00:00 +0000</pubDate>
-    <description>Phillies ace dominates Reds on the same day MLB left him off replacement list</description>
     <category>Sports</category>
   </item>
 </channel>

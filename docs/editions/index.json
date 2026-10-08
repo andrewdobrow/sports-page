@@ -1,6 +1,19 @@
 {
   "editions": [
     {
+      "date": "2026-10-08",
+      "label": "Thursday, October 8, 2026",
+      "headline": "MITCHELL'S MIRACLE GRAB SENDS BREWERS TO NLCS",
+      "deck": "Outfielder robs Machado of tying homer in eighth as Milwaukee eliminates San Diego",
+      "kicker": "MLB PLAYOFFS",
+      "sports": [
+        "mlb",
+        "nba",
+        "nhl"
+      ],
+      "url": "editions/2026-10-08.html"
+    },
+    {
       "date": "2026-10-07",
       "label": "Wednesday, October 7, 2026",
       "headline": "YAMAMOTO FANS 10, DODGERS ONE WIN FROM SWEEPING BRAVES",
