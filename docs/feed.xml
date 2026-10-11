@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 08 Oct 2026 09:28:20 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 09:34:57 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Sunday, October 11, 2026: BREWERS, DODGERS OPEN NLCS AS BASEBALL'S LAST TWO STANDING IN THE NATIONAL LEAGUE</title>
+    <link>https://thesportspage.app/editions/2026-10-11.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-10-11.html</guid>
+    <pubDate>Sun, 11 Oct 2026 09:00:00 +0000</pubDate>
+    <description>Milwaukee's 103-win juggernaut faces Los Angeles in Game 1 of the NLCS.</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Thursday, October 8, 2026: MITCHELL'S MIRACLE GRAB SENDS BREWERS TO NLCS</title>
     <link>https://thesportspage.app/editions/2026-10-08.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-10.html</guid>
     <pubDate>Fri, 10 Jul 2026 09:00:00 +0000</pubDate>
     <description>Olson's 25th homer headlines a five-home-run barrage as Atlanta pulls away late.</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Thursday, July 9, 2026: BLUE JAYS TORCH GIANTS FROM THE JUMP, ROLL TO 10-0 SHUTOUT</title>
-    <link>https://thesportspage.app/editions/2026-07-09.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-09.html</guid>
-    <pubDate>Thu, 09 Jul 2026 09:00:00 +0000</pubDate>
-    <description>Toronto erupts for five in the first inning, never looks back at Oracle Park</description>
     <category>Sports</category>
   </item>
 </channel>

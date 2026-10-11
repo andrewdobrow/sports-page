@@ -1,6 +1,19 @@
 {
   "editions": [
     {
+      "date": "2026-10-11",
+      "label": "Sunday, October 11, 2026",
+      "headline": "BREWERS, DODGERS OPEN NLCS AS BASEBALL'S LAST TWO STANDING IN THE NATIONAL LEAGUE",
+      "deck": "Milwaukee's 103-win juggernaut faces Los Angeles in Game 1 of the NLCS.",
+      "kicker": "MLB PLAYOFFS",
+      "sports": [
+        "mlb",
+        "nba",
+        "nhl"
+      ],
+      "url": "editions/2026-10-11.html"
+    },
+    {
       "date": "2026-10-08",
       "label": "Thursday, October 8, 2026",
       "headline": "MITCHELL'S MIRACLE GRAB SENDS BREWERS TO NLCS",
