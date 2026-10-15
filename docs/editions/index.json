@@ -1,6 +1,19 @@
 {
   "editions": [
     {
+      "date": "2026-10-15",
+      "label": "Thursday, October 15, 2026",
+      "headline": "BREWERS ONE WIN FROM PENNANT AS BAUERS, MITCHELL BLAST DODGERS INTO CRISIS",
+      "deck": "Back-to-back homers off Snell in seventh send Milwaukee to 3-0 series lead",
+      "kicker": "MLB PLAYOFFS",
+      "sports": [
+        "mlb",
+        "nba",
+        "nhl"
+      ],
+      "url": "editions/2026-10-15.html"
+    },
+    {
       "date": "2026-10-11",
       "label": "Sunday, October 11, 2026",
       "headline": "BREWERS, DODGERS OPEN NLCS AS BASEBALL'S LAST TWO STANDING IN THE NATIONAL LEAGUE",
