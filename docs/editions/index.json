@@ -1,6 +1,18 @@
 {
   "editions": [
     {
+      "date": "2026-10-18",
+      "label": "Sunday, October 18, 2026",
+      "headline": "DELAUTER'S NIGHTMARE IN RIGHT FIELD SWINGS ALCS BACK TO EVEN",
+      "deck": "Rays capitalize on costly seventh-inning error to take Game 4, 7-3",
+      "kicker": "MLB PLAYOFFS",
+      "sports": [
+        "mlb",
+        "nhl"
+      ],
+      "url": "editions/2026-10-18.html"
+    },
+    {
       "date": "2026-10-15",
       "label": "Thursday, October 15, 2026",
       "headline": "BREWERS ONE WIN FROM PENNANT AS BAUERS, MITCHELL BLAST DODGERS INTO CRISIS",

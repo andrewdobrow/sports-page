@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 15 Oct 2026 09:34:32 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 09:12:20 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Sunday, October 18, 2026: DELAUTER'S NIGHTMARE IN RIGHT FIELD SWINGS ALCS BACK TO EVEN</title>
+    <link>https://thesportspage.app/editions/2026-10-18.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-10-18.html</guid>
+    <pubDate>Sun, 18 Oct 2026 09:00:00 +0000</pubDate>
+    <description>Rays capitalize on costly seventh-inning error to take Game 4, 7-3</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Thursday, October 15, 2026: BREWERS ONE WIN FROM PENNANT AS BAUERS, MITCHELL BLAST DODGERS INTO CRISIS</title>
     <link>https://thesportspage.app/editions/2026-10-15.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-12.html</guid>
     <pubDate>Sun, 12 Jul 2026 09:00:00 +0000</pubDate>
     <description>Pittsburgh starter hits Mangum, Reynolds and O'Hearn as Pirates claw past Milwaukee in doubleheader sweep</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Saturday, July 11, 2026: TIGERS MAUL PHILLIES 10-2 AS DETROIT ERUPTS FOR EIGHT RUNS IN FINAL TWO INNINGS</title>
-    <link>https://thesportspage.app/editions/2026-07-11.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-11.html</guid>
-    <pubDate>Sat, 11 Jul 2026 09:00:00 +0000</pubDate>
-    <description>Hill, McGonigle homer as Detroit's bats explode late at Comerica Park</description>
     <category>Sports</category>
   </item>
 </channel>
