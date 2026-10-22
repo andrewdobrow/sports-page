@@ -1,6 +1,18 @@
 {
   "editions": [
     {
+      "date": "2026-10-22",
+      "label": "Thursday, October 22, 2026",
+      "headline": "HAWKS CLAW PAST MAGIC IN OVERTIME THRILLER TO SEIZE SERIES EDGE",
+      "deck": "Atlanta survives Orlando scare, 132-125, as conference semifinals heat up",
+      "kicker": "NBA PLAYOFFS",
+      "sports": [
+        "nba",
+        "nhl"
+      ],
+      "url": "editions/2026-10-22.html"
+    },
+    {
       "date": "2026-10-21",
       "label": "Wednesday, October 21, 2026",
       "headline": "PISTONS STUN CELTICS, 76ERS AND THUNDER ALSO ROLL IN PLAYOFF OPENERS",

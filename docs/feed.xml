@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Wed, 21 Oct 2026 09:21:44 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 09:47:10 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Thursday, October 22, 2026: HAWKS CLAW PAST MAGIC IN OVERTIME THRILLER TO SEIZE SERIES EDGE</title>
+    <link>https://thesportspage.app/editions/2026-10-22.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-10-22.html</guid>
+    <pubDate>Thu, 22 Oct 2026 09:00:00 +0000</pubDate>
+    <description>Atlanta survives Orlando scare, 132-125, as conference semifinals heat up</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Wednesday, October 21, 2026: PISTONS STUN CELTICS, 76ERS AND THUNDER ALSO ROLL IN PLAYOFF OPENERS</title>
     <link>https://thesportspage.app/editions/2026-10-21.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-14.html</guid>
     <pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
     <description>Cardinals outfielder stuns Philadelphia crowd, becomes first Red Bird to claim crown</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Monday, July 13, 2026: BUCS BURY BREWERS, 14-5, IN PITTSBURGH SLUGFEST</title>
-    <link>https://thesportspage.app/editions/2026-07-13.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-13.html</guid>
-    <pubDate>Mon, 13 Jul 2026 09:00:00 +0000</pubDate>
-    <description>Pirates erupt for 10 runs in the fourth inning to run Milwaukee off PNC Park</description>
     <category>Sports</category>
   </item>
 </channel>
