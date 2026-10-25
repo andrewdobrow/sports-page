@@ -1,6 +1,19 @@
 {
   "editions": [
     {
+      "date": "2026-10-25",
+      "label": "Sunday, October 25, 2026",
+      "headline": "FRELICK, PRATT FUEL BREWERS' MIRACLE COMEBACK IN GAME 2",
+      "deck": "Milwaukee erases 4-0 first-inning deficit to stun Tampa Bay, seize commanding 2-0 Series lead",
+      "kicker": "WORLD SERIES",
+      "sports": [
+        "mlb",
+        "nba",
+        "nhl"
+      ],
+      "url": "editions/2026-10-25.html"
+    },
+    {
       "date": "2026-10-22",
       "label": "Thursday, October 22, 2026",
       "headline": "HAWKS CLAW PAST MAGIC IN OVERTIME THRILLER TO SEIZE SERIES EDGE",

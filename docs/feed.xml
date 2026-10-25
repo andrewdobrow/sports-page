@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Thu, 22 Oct 2026 09:47:10 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 09:37:43 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Sunday, October 25, 2026: FRELICK, PRATT FUEL BREWERS' MIRACLE COMEBACK IN GAME 2</title>
+    <link>https://thesportspage.app/editions/2026-10-25.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-10-25.html</guid>
+    <pubDate>Sun, 25 Oct 2026 09:00:00 +0000</pubDate>
+    <description>Milwaukee erases 4-0 first-inning deficit to stun Tampa Bay, seize commanding 2-0 Series lead</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Thursday, October 22, 2026: HAWKS CLAW PAST MAGIC IN OVERTIME THRILLER TO SEIZE SERIES EDGE</title>
     <link>https://thesportspage.app/editions/2026-10-22.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-15.html</guid>
     <pubDate>Wed, 15 Jul 2026 09:00:00 +0000</pubDate>
     <description>AL's 4-0 shutout features 15 strikeouts, three hits allowed, and a dominant first inning.</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Tuesday, July 14, 2026: WALKER CLOSES THE SHOW: SIX CONSECUTIVE HOMERS SEAL DERBY GLORY FOR ST. LOUIS</title>
-    <link>https://thesportspage.app/editions/2026-07-14.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-14.html</guid>
-    <pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
-    <description>Cardinals outfielder stuns Philadelphia crowd, becomes first Red Bird to claim crown</description>
     <category>Sports</category>
   </item>
 </channel>
