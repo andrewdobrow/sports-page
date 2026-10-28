@@ -1,6 +1,19 @@
 {
   "editions": [
     {
+      "date": "2026-10-28",
+      "label": "Wednesday, October 28, 2026",
+      "headline": "RAYS CLAW BACK FROM THE BRINK, STUN BREWERS IN 12 TO FORCE GAME 5",
+      "deck": "Tampa Bay scores twice in the 12th inning to deny Milwaukee its first championship",
+      "kicker": "WORLD SERIES",
+      "sports": [
+        "mlb",
+        "nba",
+        "nhl"
+      ],
+      "url": "editions/2026-10-28.html"
+    },
+    {
       "date": "2026-10-25",
       "label": "Sunday, October 25, 2026",
       "headline": "FRELICK, PRATT FUEL BREWERS' MIRACLE COMEBACK IN GAME 2",

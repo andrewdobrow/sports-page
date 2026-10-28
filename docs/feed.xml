@@ -5,13 +5,21 @@
   <link>https://thesportspage.app</link>
   <description>Daily sports journalism — box scores, standings, and original stories across MLB, NBA, NHL, and NFL.</description>
   <language>en-us</language>
-  <lastBuildDate>Sun, 25 Oct 2026 09:37:43 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 09:25:02 +0000</lastBuildDate>
   <atom:link href="https://thesportspage.app/feed.xml" rel="self" type="application/rss+xml"/>
   <image>
     <url>https://thesportspage.app/favicon.ico</url>
     <title>The Sports Page</title>
     <link>https://thesportspage.app</link>
   </image>
+  <item>
+    <title>Wednesday, October 28, 2026: RAYS CLAW BACK FROM THE BRINK, STUN BREWERS IN 12 TO FORCE GAME 5</title>
+    <link>https://thesportspage.app/editions/2026-10-28.html</link>
+    <guid isPermaLink="true">https://thesportspage.app/editions/2026-10-28.html</guid>
+    <pubDate>Wed, 28 Oct 2026 09:00:00 +0000</pubDate>
+    <description>Tampa Bay scores twice in the 12th inning to deny Milwaukee its first championship</description>
+    <category>Sports</category>
+  </item>
   <item>
     <title>Sunday, October 25, 2026: FRELICK, PRATT FUEL BREWERS' MIRACLE COMEBACK IN GAME 2</title>
     <link>https://thesportspage.app/editions/2026-10-25.html</link>
@@ -242,14 +250,6 @@
     <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-16.html</guid>
     <pubDate>Thu, 16 Jul 2026 09:00:00 +0000</pubDate>
     <description>One-handed pitcher's life story moves ESPYS crowd to its feet in Los Angeles</description>
-    <category>Sports</category>
-  </item>
-  <item>
-    <title>Wednesday, July 15, 2026: BELLINGER, CEASE MAKE PHILLY A ONE-SIDED AFFAIR</title>
-    <link>https://thesportspage.app/editions/2026-07-15.html</link>
-    <guid isPermaLink="true">https://thesportspage.app/editions/2026-07-15.html</guid>
-    <pubDate>Wed, 15 Jul 2026 09:00:00 +0000</pubDate>
-    <description>AL's 4-0 shutout features 15 strikeouts, three hits allowed, and a dominant first inning.</description>
     <category>Sports</category>
   </item>
 </channel>
